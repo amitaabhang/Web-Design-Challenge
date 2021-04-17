@@ -2,7 +2,7 @@
 
 This homework covers the Web design challenge, fetching city weather data, designing pages to display data 
 
-There are total 7 pages in this folder.
+There are total 7 pages in this folder + the index.html which is the main page for redirecting to the landing page.
 
 1. Landing Page:
    This is the main page/starter page. This gives breif details on the study and has different visualizations embedded.

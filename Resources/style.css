@@ -61,5 +61,8 @@ h5{
     background: lightseagreen;
     
   }
- 
+  
+  .img  a:hover {
+    display: block;
+}
  
